@@ -1,2 +1,3 @@
 # vava-exchange-docs-demo
-core only
+core, no build
+dep- node
