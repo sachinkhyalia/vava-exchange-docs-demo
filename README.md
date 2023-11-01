@@ -1,3 +1,3 @@
 # vava-exchange-docs-demo
-core, no build <br>
+core files, without build <br>
 dep- node
